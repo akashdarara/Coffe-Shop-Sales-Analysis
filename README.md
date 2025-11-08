@@ -1,2 +1,3 @@
 # Coffe-Shop-Sales-Analysis
-Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, along with product-level details.
+This dashboard was created by following a YouTube tutorial by WS Cube Tech. I recreated it for learning purposes to practice data visualization, KPI creation, and dashboard design in Excel.
+Through this project, I learned how to use pivot tables, create KPIs such as avg revenue/order, and design dashboards effectively.
